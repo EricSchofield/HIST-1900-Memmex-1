@@ -8,7 +8,7 @@ Sources:
 [[The Origins of the Dewey Classification Scheme by Wayne Wiegard]]
 
 Thoughts:
-[[A personal example of how I view one of the technologies mentioned]]  
+[[A personal example of how I view one of the technologies mentioned]]<br>   
 [[Eurocentrism in the chapter]]  
 [[How does Vannevar Bush's article Impact the modern world]]  
 [[How technology has impacted the spread of knowledge]]  
