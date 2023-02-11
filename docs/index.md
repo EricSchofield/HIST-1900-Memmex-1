@@ -1,11 +1,11 @@
 # Index
 
 Sources:<br>   
-[[As We May Think by Vannevar Bush]]
-[[How the Page Matters by Bonnie Mak]]
-[[Media as Historical Subjects by Lisa Gitelman]]
-[[The Garden and the Stream by Mike Caulfield]]
-[[The Origins of the Dewey Decimal Classification Scheme by Wayne Wiegard]]
+[[As We May Think by Vannevar Bush]]  
+[[How the Page Matters by Bonnie Mak]]  
+[[Media as Historical Subjects by Lisa Gitelman]]  
+[[The Garden and the Stream by Mike Caulfield]]  
+[[The Origins of the Dewey Decimal Classification Scheme by Wayne Wiegard]]  
 
 Thoughts:<br>   
 [[A personal example of how I view one of the technologies mentioned]] 
