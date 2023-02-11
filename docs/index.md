@@ -1,14 +1,14 @@
 # Index
 
-Sources:
-[[As We May Thinkk by Vannever Bush]]
+Sources:<br>   
+[[As We May Think by Vannevar Bush]]
 [[How the Page Matters by Bonnie Mak]]
-[[Media as Historical Subjects by Lisa Caulfield]]
+[[Media as Historical Subjects by Lisa Gitelman]]
 [[The Garden and the Stream by Mike Caulfield]]
-[[The Origins of the Dewey Classification Scheme by Wayne Wiegard]]
+[[The Origins of the Dewey Decimal Classification Scheme by Wayne Wiegard]]
 
-Thoughts:
-[[A personal example of how I view one of the technologies mentioned]]<br>   
+Thoughts:<br>   
+[[A personal example of how I view one of the technologies mentioned]] 
 [[Eurocentrism in the chapter]]  
 [[How does Vannevar Bush's article Impact the modern world]]  
 [[How technology has impacted the spread of knowledge]]  
