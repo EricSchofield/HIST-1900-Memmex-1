@@ -1,6 +1,7 @@
 **Memmex Map:**
 
 **Sources:**
+<br>
 - [[As We May Think by Vannevar Bush]]
 - [[How the Page Matters by Bonnie Mak]]
 - [[Media as Historical Subjects by Lisa Gitelman]]
@@ -13,6 +14,7 @@
 - [[Telecommunications and Colonial Rivalry Europen Telegraph Cables to the Canary Islands and Northwest Africa, 1883-1914]]
 
 **Thoughts:**
+<br>
 - [[A personal example of how I view one of the technologies mentioned]]
 - [[Eurocentrism in the chapter]]
 - [[How does Vannevar Bush's article Impact the modern world]]
@@ -30,7 +32,7 @@
 - [[What was the role of women in the history of computer development, and to what extent was it covered up]]
 
 **Map of Memex:**
-![[Pasted image 20230313111043.png]]
+![image](https://user-images.githubusercontent.com/122398922/224748706-13d12cd8-2a7e-4d30-b2ec-7e1f09ab9bc9.png)
 
 
 
