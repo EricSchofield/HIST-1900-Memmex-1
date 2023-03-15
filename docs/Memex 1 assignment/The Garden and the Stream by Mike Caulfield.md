@@ -1,4 +1,4 @@
-March 10 2023
+February 10 2023
 
 Caulfield, Mike. 2015. 'The Garden and the Stream: A Technopastoral' [https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 
