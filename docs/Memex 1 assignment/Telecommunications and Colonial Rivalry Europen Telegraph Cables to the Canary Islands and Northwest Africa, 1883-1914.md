@@ -1,4 +1,4 @@
-April 12 2023
+April 10 2023
 
 Quevedo, J. M. (2010). Telecommunications and Colonial Rivalry: European Telegraph Cables
 	to the Canary Islands and Northwest Africa, 1883-1914. _Historical Social Research (Köln)_, _35_(1 (131)), 108–124.
