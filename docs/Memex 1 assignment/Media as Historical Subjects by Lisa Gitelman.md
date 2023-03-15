@@ -1,4 +1,4 @@
-March 10 2023
+February 10 2023
 
 Gitelman, Lisa. 2006. “Introduction: Media as Historical Subjects,” [_Always Already New: Media, History, and the Data of Culture_](http://web.mit.edu/uricchio/Public/television/Gitelman.pdf) (MIT Press)
 
