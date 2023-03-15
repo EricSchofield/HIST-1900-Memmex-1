@@ -1,4 +1,4 @@
-March 10 2023
+February 10 2023
 
 Mak, [“Architectures of the Page”](https://raley.english.ucsb.edu/wp-content2/uploads/234/Mak.pdf) , chapter 1 of _How the Page Matters._
 
