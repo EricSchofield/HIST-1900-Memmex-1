@@ -2,34 +2,34 @@
 
 **Sources:**
 <br>
-- [[As We May Think by Vannevar Bush]]
-- [[How the Page Matters by Bonnie Mak]]
-- [[Media as Historical Subjects by Lisa Gitelman]]
-- [[The Garden and the Stream by Mike Caulfield]]
-- [[The Origins of the Dewey Decimal Classification Scheme by Wayne Wiegard]]
-- [[A Victorian Ecological Disaster Imperialism, the Telegraph, and Gutta-Percha]]
-- [[From Cabling the Atlantic to Wiring the World A Review Essay on the 150th Anniversary of the Atlantic Telegraph Cable of 1866]]
-- [[Luigi Federic Menabrea paying tribute to Ada Lovelace]]
-- [[Submarine Telegraph Cables Business and Politics, 1839-1939]]
-- [[Telecommunications and Colonial Rivalry Europen Telegraph Cables to the Canary Islands and Northwest Africa, 1883-1914]]
+- [[As We May Think by Vannevar Bush]]<br>
+- [[How the Page Matters by Bonnie Mak]]<br>
+- [[Media as Historical Subjects by Lisa Gitelman]]<br>
+- [[The Garden and the Stream by Mike Caulfield]]<br>
+- [[The Origins of the Dewey Decimal Classification Scheme by Wayne Wiegard]]<br>
+- [[A Victorian Ecological Disaster Imperialism, the Telegraph, and Gutta-Percha]]<br>
+- [[From Cabling the Atlantic to Wiring the World A Review Essay on the 150th Anniversary of the Atlantic Telegraph Cable of 1866]]<br>
+- [[Luigi Federic Menabrea paying tribute to Ada Lovelace]]<br>
+- [[Submarine Telegraph Cables Business and Politics, 1839-1939]]<br>
+- [[Telecommunications and Colonial Rivalry Europen Telegraph Cables to the Canary Islands and Northwest Africa, 1883-1914]]<br>
 
 **Thoughts:**
 <br>
-- [[A personal example of how I view one of the technologies mentioned]]
-- [[Eurocentrism in the chapter]]
-- [[How does Vannevar Bush's article Impact the modern world]]
-- [[How technology has impacted the spread of knowledge]]
-- [[How the Garden relates to more then just the internet]]
-- [[Problems with the Dewey Decimal Classification system]]
-- [[The changing of media since 2006]]
-- [[What has been the impact of the Dewey Decimal Classificaton system]]
-- [[Does the creation of the modern internet follow the same trajectory as the creation of telegraph lines]]
-- [[How useful were the Canary Islands during the first world war]]
-- [[Is modern day resource exploitation for the creation of computers similar to the environmental collapse of Gutta-Percha]]
-- [[Is the monopolisation and lack of political independence in telegraphy shared by modern mass media]]
-- [[Map of World War One shipping lanes]]
-- [[What are the modern uses of Gutta-Percha]]
-- [[What was the role of women in the history of computer development, and to what extent was it covered up]]
+- [[A personal example of how I view one of the technologies mentioned]]<br>
+- [[Eurocentrism in the chapter]]<br>
+- [[How does Vannevar Bush's article Impact the modern world]]<br>
+- [[How technology has impacted the spread of knowledge]]<br>
+- [[How the Garden relates to more then just the internet]]<br>
+- [[Problems with the Dewey Decimal Classification system]]<br>
+- [[The changing of media since 2006]]<br>
+- [[What has been the impact of the Dewey Decimal Classificaton system]]<br>
+- [[Does the creation of the modern internet follow the same trajectory as the creation of telegraph lines]]<br>
+- [[How useful were the Canary Islands during the first world war]]<br>
+- [[Is modern day resource exploitation for the creation of computers similar to the environmental collapse of Gutta-Percha]]<br>
+- [[Is the monopolisation and lack of political independence in telegraphy shared by modern mass media]]<br>
+- [[Map of World War One shipping lanes]]<br>
+- [[What are the modern uses of Gutta-Percha]]<br>
+- [[What was the role of women in the history of computer development, and to what extent was it covered up]]<br>
 
 **Map of Memex:**
 ![image](https://user-images.githubusercontent.com/122398922/224748706-13d12cd8-2a7e-4d30-b2ec-7e1f09ab9bc9.png)
