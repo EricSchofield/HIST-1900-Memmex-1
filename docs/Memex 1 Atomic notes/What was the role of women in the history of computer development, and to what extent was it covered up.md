@@ -1,4 +1,4 @@
-April 12 2023
+March 12 2023
 
 Due to the greater prevalence of sexism in 19th and 20th century society, to what extent have the contributions of women on the development of computers been ignored? The Carleton library can be used for this:
 
