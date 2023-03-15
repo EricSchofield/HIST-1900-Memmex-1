@@ -1,4 +1,4 @@
-March 10 2023
+February 10 2023
 
 Bush, Vannevar. 1943 'As We May Think' _The Atlantic_ [https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
