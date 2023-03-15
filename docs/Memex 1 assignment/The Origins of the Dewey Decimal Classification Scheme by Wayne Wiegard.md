@@ -1,4 +1,4 @@
-March 10 2023
+February 10 2023
 
 Wiegand, Wayne A. 1998. 'The "Amherst Method": The Origins of the Dewey Decimal Classification Scheme'. _Libraries & Culture_ 3.2: 175-194. [https://www.jstor.org/stable/25548614](https://www.jstor.org/stable/25548614)
 
