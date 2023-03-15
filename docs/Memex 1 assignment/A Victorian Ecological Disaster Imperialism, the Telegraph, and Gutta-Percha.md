@@ -1,4 +1,4 @@
-April 12 2023
+March 12 2023
 
 Tully, J. (2009). A Victorian Ecological Disaster: Imperialism, the Telegraph, and Gutta-
 	Percha. _Journal of World History_, _20_(4), 559–579. [https://doi.org/10.1353/jwh.0.0088](https://doi.org/10.1353/jwh.0.0088)
