@@ -1,7 +1,4 @@
-**Memmex Map:**
-
 **Sources:**
-<br>
 - [[As We May Think by Vannevar Bush]]<br>
 - [[How the Page Matters by Bonnie Mak]]<br>
 - [[Media as Historical Subjects by Lisa Gitelman]]<br>
@@ -12,9 +9,13 @@
 - [[Luigi Federic Menabrea paying tribute to Ada Lovelace]]<br>
 - [[Submarine Telegraph Cables Business and Politics, 1839-1939]]<br>
 - [[Telecommunications and Colonial Rivalry Europen Telegraph Cables to the Canary Islands and Northwest Africa, 1883-1914]]<br>
+- [[Anatomy of an AI system]]<br>
+- [[The ARPANET after Twenty Years]]<br>
+- [[The early part of internet history that people don't talk about]]<br>
+- [[the evolution of the internet]]<br>
+- [[The Internet Topology Zoo]]<br>
 
 **Thoughts:**
-<br>
 - [[A personal example of how I view one of the technologies mentioned]]<br>
 - [[Eurocentrism in the chapter]]<br>
 - [[How does Vannevar Bush's article Impact the modern world]]<br>
@@ -30,9 +31,16 @@
 - [[Map of World War One shipping lanes]]<br>
 - [[What are the modern uses of Gutta-Percha]]<br>
 - [[What was the role of women in the history of computer development, and to what extent was it covered up]]<br>
+- [[Development of the internet after 2016]]<br>
+- [[How exploitative is the mining operations to create AI devices]]<br>
+- [[How have internet communities evolved]]<br>
+- [[Map of the Anatomy of an AI system]]<br>
+- [[The expansion of the Internet since 1989]]<br>
 
 **Map of Memex:**
-![image](https://user-images.githubusercontent.com/122398922/224748706-13d12cd8-2a7e-4d30-b2ec-7e1f09ab9bc9.png)
+![[Pasted image 20230413021311.png]]
+
+
 
 
 
