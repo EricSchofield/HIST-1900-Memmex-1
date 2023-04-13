@@ -38,8 +38,7 @@
 - [[The expansion of the Internet since 1989]]<br>
 
 **Map of Memex:**
-![[Pasted image 20230413021311.png]]
-
+Pasted image 20230413021311.png
 
 
 
