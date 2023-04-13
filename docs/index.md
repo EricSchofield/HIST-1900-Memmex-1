@@ -1,4 +1,4 @@
-**Sources:**
+**Sources:**<br>
 - [[As We May Think by Vannevar Bush]]<br>
 - [[How the Page Matters by Bonnie Mak]]<br>
 - [[Media as Historical Subjects by Lisa Gitelman]]<br>
@@ -15,7 +15,7 @@
 - [[the evolution of the internet]]<br>
 - [[The Internet Topology Zoo]]<br>
 
-**Thoughts:**
+**Thoughts:**<br>
 - [[A personal example of how I view one of the technologies mentioned]]<br>
 - [[Eurocentrism in the chapter]]<br>
 - [[How does Vannevar Bush's article Impact the modern world]]<br>
@@ -38,7 +38,7 @@
 - [[The expansion of the Internet since 1989]]<br>
 
 **Map of Memex:**
-Pasted image 20230413021311.png
+![image](https://user-images.githubusercontent.com/122398922/231671185-5f45c020-4d22-4d34-b80b-ecc70e124c10.png)
 
 
 
