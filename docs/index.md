@@ -37,7 +37,18 @@
 - [[Map of the Anatomy of an AI system]]<br>
 - [[The expansion of the Internet since 1989]]<br>
 
-**[[Lecture Notes]]**
+**Lecture Notes:**<br>
+- [[January 11 lecture notes]]<br>
+- [[January 16 lecture notes]]<br>
+- [[January 23 lecture notes]]<br>
+- [[January 30 lecture notes]]<br>
+- [[February 15 Lecture notes]]<br>
+- [[February 27 lecture notes]]<br>
+- [[march 15 lecture notes]]<br>
+- [[march 22 Lecture 15 notes - Sliding into Hypertext and the Web]]<br>
+- [[march 27 2023 lecture notes]]<br>
+- [[march 29 lecture notes 1990s countinued]]<br>
+- [[April 3 2023 lecutre notes - Google]]<br>
 
 **Map of Memex:**
 ![image](https://user-images.githubusercontent.com/122398922/235035407-810da12c-9c69-4d95-9c78-18b3a996bffb.png)
