@@ -50,9 +50,9 @@
 - [[march 29 lecture notes 1990s countinued]]<br>
 - [[April 3 2023 lecture notes - Google]]<br>
 
-**Final Journey:**
-- [[0_Final Journey_1]]
-- [[0_Final Journey_2]]
+**Final Journey:**<br>
+- [[0_Final Journey_1]]<br>
+- [[0_Final Journey_2]]<br>
 
 **Map of Memex:**
 ![image](https://user-images.githubusercontent.com/122398922/235035407-810da12c-9c69-4d95-9c78-18b3a996bffb.png)
