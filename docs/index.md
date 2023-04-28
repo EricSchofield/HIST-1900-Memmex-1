@@ -37,9 +37,9 @@
 - [[Map of the Anatomy of an AI system]]<br>
 - [[The expansion of the Internet since 1989]]<br>
 
+**[[Lecture Notes]]**
+
 **Map of Memex:**
-![image](https://user-images.githubusercontent.com/122398922/231671185-5f45c020-4d22-4d34-b80b-ecc70e124c10.png)
-
-
+![image](https://user-images.githubusercontent.com/122398922/235035407-810da12c-9c69-4d95-9c78-18b3a996bffb.png)
 
 
